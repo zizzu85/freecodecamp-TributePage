@@ -1,0 +1,40 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #d8d8d8;
+    margin: 0;
+}
+
+.container{
+    padding: 20px;
+    text-align: center;
+}
+
+
+#main{
+    padding: 20px;
+    justify-content: center;
+}
+
+
+#title{
+    padding: 20px;;
+}
+
+
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+#tribute-info{
+    text-align: justify;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    align-self: center;
+    padding: 10px;
+}
